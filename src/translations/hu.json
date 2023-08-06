@@ -1,10 +1,20 @@
 {
   "status": {
     "cleaning": "Tisztítás",
+    "auto": "Automata Tisztítás",
+    "spot": "Pont Tisztítás",
+    "edge": "Él Tisztítás",
+    "single_room": "Single Room Cleaning",
     "paused": "Szünet",
     "idle": "Tétlen",
+    "stop": "Megállt",
     "charging": "Töltés",
-    "returning home": "Hazatérés"
+    "returning home": "Hazatérés",
+    "returning": "Hazatérés",
+    "docked": "Dokkolt",
+    "unknown": "Ismeretlen",
+    "offline": "Offline",
+    "error": "Hiba"
   },
   "source": {
     "gentle": "Gyengéd",
