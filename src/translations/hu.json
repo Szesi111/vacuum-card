@@ -19,9 +19,13 @@
   "source": {
     "gentle": "Gyengéd",
     "silent": "Csendes",
+    "silence": "Csendes",
     "standard": "Alap",
+    "stanrd": "Alap",
     "medium": "Közepes",
+    "middle": "Közepes",
     "turbo": "Turbo"
+    "enhance": "Turbo"
   },
   "common": {
     "name": "Porszívó Kártya",
